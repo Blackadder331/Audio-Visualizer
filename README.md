@@ -1,3 +1,7 @@
+
+<img width="1545" alt="cover audio img" src="https://github.com/Blackadder331/Audio-Visualizer/assets/10698943/799bdf45-441a-482d-b1f0-674e0462f045">
+
+
 # Audio-Visualizer
 
 Source: https://blog.logrocket.com/audio-visualizer-from-scratch-javascript/
